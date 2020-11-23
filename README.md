@@ -1,4 +1,4 @@
-# EmoteControl2019
+# EmoteControl
 
 EmoteControl is an interface which allows for live-manipulation of six emotional cues in music: tempo, articulation, pitch, dynamics, brightness, and mode.
 
