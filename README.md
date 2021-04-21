@@ -3,7 +3,10 @@
 EmoteControl is an interface which allows for live-manipulation of emotional cues in music.
 
 EmoteControl V1.0: six musical cues can be changed. These are: tempo, articulation, pitch, dynamics, brightness, and mode.
+Files to access EmoteControl V1.0: EmoteControlPatch2019.maxpat and EmoteControlLogicProject.logicx
+
 EmoteControl V2.0: seven musical cues can be changed. These are: tempo, articulation, pitch, dynamics, brightness, mode, and instrumentation.
+Files to access EmoteControl V2.0: EC2_2020_Max.maxpat and EC2_2020_Logic.logicx
 
 EmoteControl V1.0 and V2.0 use Max/MSP, Logic Pro X, and Vienna Symphonic Library (VSL). The interface works with MIDI files inputted in the Max patch, and are played out through a chamber strings synth in the VSL plug-in in Logic. Sliders and buttons control the six (V1.0) or seven (V2.0) cues that can be altered as the music plays in real-time. 
 
