@@ -13,6 +13,6 @@ EmoteControl V1.0 and V2.0 use Max/MSP, Logic Pro X, and Vienna Symphonic Librar
 A smaller-scale version of EmoteControl (V1.1) also exists, which allows for changes of five musical cues: tempo, pitch, dynamics, brightness, and mode. This interface utilises Max/MSP and Logic Pro X, however, VSL is swapped with one of Logic's in-house virtual synths. This allows for the interface to work on smaller and less powerful devices. The 'portable' version works with a piano as playout. Four sliders and one toggle (on/off) button control the five cues that can be altered in the smaller-scale interface as the music plays in real-time. 
 
 Reference: 
-Annaliese Micallef Grimaud, Tuomas Eerola, Nick Collins. 2019. EmoteControl: A System for Live-Manipulation of Emotional Cues in Music. In Proceedings of Audio Mostly 2019 (AM’ 19), September 18-20, 2019, Nottingham, UK. ACM, New York, NY, USA. 5 pages. https://doi.org/10.1145/3356590.3356608  
+Micallef Grimaud, A., Eerola, T. EmoteControl: an interactive system for real-time control of emotional expression in music. Pers Ubiquit Comput (2020). https://doi.org/10.1007/s00779-020-01390-7
 
 Setup and procedure are available in the pdf file. 
